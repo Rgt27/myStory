@@ -4,3 +4,5 @@ Crocodile
 Lion
 Tiger
 Halcón
+Perro
+Gato
