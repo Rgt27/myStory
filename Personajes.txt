@@ -6,3 +6,4 @@ Tiger
 Halcón
 Perro
 Gato
+pez(solo visible para pruebas)
